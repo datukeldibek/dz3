@@ -30,8 +30,8 @@ func getInfo(_ age: Int, _ city: String){
     }
     print(str)
 }
-//var city: String = readLine()!
-//getInfo(34, city)
+var city: String = readLine()!
+getInfo(34, city)
 
 //2
 print("task2")
